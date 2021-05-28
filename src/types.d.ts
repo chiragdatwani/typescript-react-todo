@@ -7,3 +7,7 @@ interface Todo {
 interface TodoList {
     todos: Todo
 }
+
+interface Button {
+    text: string;
+}
